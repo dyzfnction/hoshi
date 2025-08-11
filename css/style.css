@@ -1,6 +1,9 @@
 /* [ GENERALE ] -------------------------------------- */
 
-
+body {
+    overflow-x: hidden;
+    overflow-y: hidden; /* temporaire, pour test */
+}
 
 /* Les polices de Google */
 
@@ -277,3 +280,4 @@
 /* [ PAGE DE PROJETS PROFESSIONNELS ] ---------------- */
 
 /* [ PAGE DE HOBBY/PASSION ] ------------------------- */
+
